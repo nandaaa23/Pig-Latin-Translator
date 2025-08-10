@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+html{
+    background-color: pink;
+}
+
+.container{
+    max-width: 700px;
+    margin: auto;
+    padding: 20px;
+}
+
+.header-title{
+    font-size: 60px;
+    color: palevioletred;
+}
+
+.text-input,.text-output{
+    width: 90%;
+    resize: none;
+    font-size: 20px;
+    padding: 20px;
+    color: plum;
+}
+
